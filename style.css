@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+  color: black;
+}
+
+ul {
+  display: flex;
+}
+
+.menu li {
+  list-style: none;
+  padding-right: 10px;
+}
